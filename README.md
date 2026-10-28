@@ -145,11 +145,9 @@ Berkas `notebook.ipynb` sudah dieksekusi penuh beserta seluruh output tabel dan 
 
 ---
 
-## 🌐 Deployment Streamlit Community Cloud
+## 🌐 Link Deployment Streamlit Community Cloud
 
-Langkah deploy aplikasi ke Streamlit Cloud:
-1. Buat repositori baru di GitHub (misal: `beijing-air-quality-analysis`).
-2. Unggah seluruh isi folder proyek ini ke repositori tersebut.
-3. Kunjungi [share.streamlit.io](https://share.streamlit.io/) dan hubungkan dengan akun GitHub Anda.
-4. Pilih repositori, atur *Main file path* ke `dashboard/dashboard.py`.
-5. Klik **Deploy** dan salin URL publik ke dalam `url.txt`.
+Berikut adalah link share.streamlit.io untuk menampilkan dashboard analisis air quality kota beijing.
+```bash
+https://dashboard-beijing-air-quality-analysis.streamlit.app/
+```
